@@ -1,7 +1,7 @@
 {
-    "manifest-version":3,
+    "manifest_version":3,
     "version":"1.0.0",
-    "name":"skribbl.io auto word guesser!",
+    "name":"Skribbl.io Auto Word Guesser!",
     "description":"Automatically guesses words on your behalf, enabling you to win games effortlessly!",
     "icons":{
         "16":"images/icon-16.png",
